@@ -6,235 +6,235 @@
   "files": [
     {
       "path": "mods/Corgilib-Forge-1.20.1-4.0.3.4.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/Corgilib-Forge-1.20.1-4.0.3.4.jar",
       "sha1": "4b08e5f8f2580842eacd5388458a0b52411a9fb2",
       "size": 360700
     },
     {
       "path": "mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
       "sha1": "f2324c43cd0bbb856b115ce1a688c33bff999294",
       "size": 1143788
     },
     {
       "path": "mods/Data_Anchor-forge-1.20.1-1.0.0.20.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/Data_Anchor-forge-1.20.1-1.0.0.20.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/Data_Anchor-forge-1.20.1-1.0.0.20.jar",
       "sha1": "f16089cc8af8e5dca8f5a14dc7bab11840d9b9a8",
       "size": 112171
     },
     {
       "path": "mods/FallingTree-1.20.1-4.3.4.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/FallingTree-1.20.1-4.3.4.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/FallingTree-1.20.1-4.3.4.jar",
       "sha1": "617b79628fca3968979c1cc5f42edda882a55adb",
       "size": 420181
     },
     {
       "path": "mods/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar",
       "sha1": "03c69fce6167424ee5397c2aa00efedbbba2a099",
       "size": 34400785
     },
     {
       "path": "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.6.0.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.6.0.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.6.0.jar",
       "sha1": "fdb62f927153a827f5605474e25759e485480e46",
       "size": 168345
     },
     {
       "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
       "sha1": "b3dbaf1aac31601b9efb19e4c67646750041968a",
       "size": 107533
     },
     {
       "path": "mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/Towns-and-Towers-1.12-Fabric%2BForge.jar",
       "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
       "size": 2864275
     },
     {
       "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/YungsApi-1.20-Forge-4.0.6.jar",
       "sha1": "af584b690f5646c6032002b58abc4591beed3833",
       "size": 370524
     },
     {
       "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
       "sha1": "3730238c56edca4bb5b2238e1314aec572ced385",
       "size": 473564
     },
     {
       "path": "mods/alexsmobs-1.22.9.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/alexsmobs-1.22.9.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/alexsmobs-1.22.9.jar",
       "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
       "size": 26350793
     },
     {
       "path": "mods/architectury-9.2.14-forge.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/architectury-9.2.14-forge.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/architectury-9.2.14-forge.jar",
       "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
       "size": 580602
     },
     {
       "path": "mods/areas-1.20.1-6.1.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/areas-1.20.1-6.1.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/areas-1.20.1-6.1.jar",
       "sha1": "44f45c530e3690f83a103ca9a1c962182a92d71c",
       "size": 73372
     },
     {
       "path": "mods/astikorcarts-1.20.1-1.1.8.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/astikorcarts-1.20.1-1.1.8.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/astikorcarts-1.20.1-1.1.8.jar",
       "sha1": "49a8ac1c23282fe86420f0b4527e522421f2f692",
       "size": 231706
     },
     {
       "path": "mods/autoquit-1.0.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/autoquit-1.0.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/autoquit-1.0.jar",
       "sha1": "ca1d95acd502cd4e7485d92e0f6c03ebbca9c6da",
       "size": 2513
     },
     {
       "path": "mods/balm-forge-1.20.1-7.3.38-all.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/balm-forge-1.20.1-7.3.38-all.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/balm-forge-1.20.1-7.3.38-all.jar",
       "sha1": "c689f4cbe1a5250177aced15b66ca251d9476d35",
       "size": 591398
     },
     {
       "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/carryon-forge-1.20.1-2.1.2.7.jar",
       "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
       "size": 439457
     },
     {
       "path": "mods/citadel-2.6.3-1.20.1.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/citadel-2.6.3-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/citadel-2.6.3-1.20.1.jar",
       "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
       "size": 3185275
     },
     {
       "path": "mods/cloth-config-11.1.136-forge.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/cloth-config-11.1.136-forge.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/cloth-config-11.1.136-forge.jar",
       "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
       "size": 1181413
     },
     {
       "path": "mods/collective-1.20.1-8.20.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/collective-1.20.1-8.20.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/collective-1.20.1-8.20.jar",
       "sha1": "32618db0efc36b45dbcdcdaa9768c507c4264f66",
       "size": 662457
     },
     {
       "path": "mods/comforts-forge-6.4.0+1.20.1.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/comforts-forge-6.4.0+1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/comforts-forge-6.4.0%2B1.20.1.jar",
       "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e",
       "size": 382083
     },
     {
       "path": "mods/corpse-forge-1.20.1-1.0.23.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/corpse-forge-1.20.1-1.0.23.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/corpse-forge-1.20.1-1.0.23.jar",
       "sha1": "78a776f057588a84a86c57dbe376b9b26f69f2c4",
       "size": 245643
     },
     {
       "path": "mods/cristellib-1.1.6-forge.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/cristellib-1.1.6-forge.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/cristellib-1.1.6-forge.jar",
       "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",
       "size": 431318
     },
     {
       "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/geckolib-forge-1.20.1-4.8.3.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/geckolib-forge-1.20.1-4.8.3.jar",
       "sha1": "fead1d1645e16cfa02f39113481ead355230f8fd",
       "size": 1039047
     },
     {
       "path": "mods/journeymap-1.20.1-5.10.3-forge.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/journeymap-1.20.1-5.10.3-forge.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/journeymap-1.20.1-5.10.3-forge.jar",
       "sha1": "fdd97a782bdc6d0e28a851a9715abb190df47aa6",
       "size": 7160406
     },
     {
       "path": "mods/mowziesmobs-1.8.2.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/mowziesmobs-1.8.2.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/mowziesmobs-1.8.2.jar",
       "sha1": "25ffcd175cc03650e38e60d3cb7b3e038d9d3345",
       "size": 36033850
     },
     {
       "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
       "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
       "size": 181437
     },
     {
       "path": "mods/randomvillagenames-1.20.1-4.0.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/randomvillagenames-1.20.1-4.0.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/randomvillagenames-1.20.1-4.0.jar",
       "sha1": "f42a39603d9de59aa0ee133be8568cb6d9918481",
       "size": 33719
     },
     {
       "path": "mods/rare-ice-0.6.0.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/rare-ice-0.6.0.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/rare-ice-0.6.0.jar",
       "sha1": "555c07b60c7edd424f0af61dce4752dbb8f51c29",
       "size": 43398
     },
     {
       "path": "mods/sao_particles-1.3-forge-1.20.1.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/sao_particles-1.3-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/sao_particles-1.3-forge-1.20.1.jar",
       "sha1": "a49b55d730ede67197115559e0e1cf59468603f3",
       "size": 142922
     },
     {
       "path": "mods/saomcui-1.1.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/saomcui-1.1.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/saomcui-1.1.jar",
       "sha1": "920f2a753982324d63fc51bd43727dabe50609b4",
       "size": 4934288
     },
     {
       "path": "mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
       "sha1": "9998ddc8a278e0b87ab642d289ae2a1e3dbebef6",
       "size": 1816687
     },
     {
       "path": "mods/superior-ambience-0.1.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/superior-ambience-0.1.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/superior-ambience-0.1.jar",
       "sha1": "2037793c9ae811f960c80083a3b8e424e8601c12",
       "size": 84853872
     },
     {
       "path": "mods/twilightforest-1.20.1-4.3.2508-universal.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/twilightforest-1.20.1-4.3.2508-universal.jar",
       "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f",
       "size": 23332091
     },
     {
       "path": "mods/valhelsia_core-forge-1.20.1-1.1.2.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/valhelsia_core-forge-1.20.1-1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/valhelsia_core-forge-1.20.1-1.1.2.jar",
       "sha1": "5e88feef805d15ffbe3c0918f53d6ed213a7dc6a",
       "size": 203313
     },
     {
       "path": "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/valhelsia_structures-forge-1.20.1-1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/valhelsia_structures-forge-1.20.1-1.1.2.jar",
       "sha1": "60e859d58b6ee8db01ea7a08e0dd6cbad761befb",
       "size": 2569623
     },
     {
       "path": "mods/villagernames-1.20.1-8.2.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/villagernames-1.20.1-8.2.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/villagernames-1.20.1-8.2.jar",
       "sha1": "249a964cc0f21c5c4dc339f4b2221eeebd6e1b4b",
       "size": 55867
     },
     {
       "path": "mods/voicechat-forge-1.20.1-2.6.16.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/voicechat-forge-1.20.1-2.6.16.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/voicechat-forge-1.20.1-2.6.16.jar",
       "sha1": "6c4cebc4883290dd38998189e98100829d85f452",
       "size": 4903006
     },
     {
       "path": "mods/waystones-forge-1.20.1-14.1.20.jar",
-      "url": "https://github.com/notsostoney/helfart-modpack/releases/download/v1.0.0/waystones-forge-1.20.1-14.1.20.jar",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/mods/waystones-forge-1.20.1-14.1.20.jar",
       "sha1": "68b61bc66dafc14b505de589b3e751771a9c15aa",
       "size": 533739
     }
