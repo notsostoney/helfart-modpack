@@ -263,6 +263,10 @@
       "size": 1127026
     },
     {
+      "path": "config/oculus.properties",
+      "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/config/oculus.properties"
+    },
+    {
       "path": "optionsshaders.txt",
       "url": "https://raw.githubusercontent.com/notsostoney/helfart-modpack/main/optionsshaders.txt"
     }
